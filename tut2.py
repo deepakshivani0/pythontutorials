@@ -38,6 +38,8 @@ print(name[0:5154545])
 str="ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 print(str[12:15:3]) #it will jump 2 characters and give u every 3rd character
 
+print(str.lower())
+
 print(name.replace("Mus", "Dee"))
 
 
